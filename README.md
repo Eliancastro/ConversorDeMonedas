@@ -13,6 +13,7 @@ Para nuestro actual desafío, hemos elegido la API "Exchange Rate API" por sus t
 Selecciona la moneda que deseas convertir y luego la segunda moneda que deseas saber su valor.
 Una vez seleccionadas deberas ingresar el monto a convertir.
 Ejemplo de resultado:
+
 <img width="500" alt="chrome_JogvOPMW1h" src="https://github.com/user-attachments/assets/9f5f80e1-763d-4f69-a103-95107108b97f">
 
 <h1 align="center"> Ver el listado actual de monedas </h1>
