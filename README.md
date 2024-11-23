@@ -22,6 +22,7 @@ Ejemplo de resultado:
 <h1 align="center"> Agregar una moneda al listado </h1>
 
 Te mostrará una lista de países que puedes añadir a tu lista:
+
 <img width="302" alt="chrome_iLGpDIoM3L" src="https://github.com/user-attachments/assets/0afa4e60-1755-4e26-8f80-ffa03da306d3">
 
 <h1 align="center"> Eliminar una moneda del listado </h1>
