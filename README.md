@@ -12,4 +12,5 @@ https://www.exchangerate-api.com/
 <img width="442" alt="chrome_vJQ4S4I5ae" src="https://github.com/user-attachments/assets/cf74f39c-c619-415a-adeb-c79fb932ffb9">
 
 *Finalmente, añades tu api-key en el apartado de variables de entorno con el nombre de la variable: EXCHANGE-API-KEY y seleccionas OK.
-<img width="349" alt="chrome_kVxkh7ue51" src="https://github.com/user-attachments/assets/ba5cf332-aac5-4430-bd79-9794f9e1bb0e">
+
+<img width="511" alt="chrome_uDmPZI9il3" src="https://github.com/user-attachments/assets/f0dd3211-3563-4435-8785-4828351afcc6">
