@@ -3,7 +3,7 @@ Para nuestro actual desafío, hemos elegido la API "Exchange Rate API" por sus t
 <h1 align="center"> Funcionalidades de la app </h1>
 1. [Hacer conversión de moneda](#hacer-conversion-de-moneda).
 2. Ver listado actual de monedas.
-3. Agregar una moneda al listado.
+3. Agregar una moneda al listado.   
 4. Eliminar una moneda del listado.
 5. Ver tu historial de conversión de monedas.
 7. Salir
